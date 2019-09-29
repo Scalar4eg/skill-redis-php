@@ -1,0 +1,11 @@
+{
+    "name": "skillbox/Redis—Demo",
+    "description": "Тест производительности",
+    "version": "1.0.0",
+    "license": "MIT",
+    "require": {
+        "ext-pdo": "*",
+        "predis/predis": "*",
+        "ext-pcntl": "*"
+    }
+}
